@@ -11,7 +11,7 @@ O objetivo desta dinâmica é ensinar um pouco de economia da escola austríaca 
 - Separe uma quantia pequena e simbólica de Sats, para usar durante a gincana.
 - Um papel e uma caneta para você anotar os dados e os resultados da dinâmica.
 - Dois pacotes de Feijão ou Milho. (você pode substituir por notas sem valor impressas, desenhadas a mão, ou até por uma shitcoin) O importante é ter o suficiente pa inflacionar o mercado quando chegar a hora.
-
+- Alguns qr codes impressos que contenham valor em satoshis
 ## Preparação
 - Peça para cada membro da família escolher um pacote de doce que mais goste e que não queira trocar por nenhum outro.
 - Em seguida, peça para eles classificarem os outros pacotes de doce em ordem de preferência, do mais desejado ao menos desejado, peça que anotem tudo.
@@ -19,7 +19,7 @@ O objetivo desta dinâmica é ensinar um pouco de economia da escola austríaca 
 - Esconda-os sem que os outros vejam
 - Para cada fase haverá uma rodada de trabalho para que encontrem os doces, limite o tempo busca, para não acabar com os doces.
 - Tente esconder os doces mais bem classificados de forma mais dificil de encontrar.
-
+- Esconda também os QR Codes
 ## Fases
 
 ### Fase 1: Voltando ao Escambo Voluntário
@@ -51,6 +51,7 @@ O objetivo desta dinâmica é ensinar um pouco de economia da escola austríaca 
 
 - Depois da primeira crise fiscal provocada pela sua intervenção estatal, o seu cúmplice anuncia que ele descobriu uma nova forma de moeda, chamada de Bitcoin, que não depende do estado, nem do banqueiro, nem de nenhum intermediário para funcionar. Ele explica que o Bitcoin é uma criptomoeda descentralizada, que usa uma rede peer-to-peer de computadores para validar as transações e evitar fraudes. Ele também explica que o Bitcoin tem uma oferta limitada de 21 milhões de unidades, que são geradas por um processo chamado de mineração.
 - Ele mostra para os membros da família um aplicativo no seu celular, que permite que ele envie e receba Bitcoins de forma rápida, segura e barata, usando apenas um código QR. Ele diz que ele já tem alguns Bitcoins, que ele comprou de um amigo que também usa o aplicativo, e que ele está disposto a trocar os seus Bitcoins por doces.
+- Ele anuncia que quem encontrar os qr codes ele aceita também.
 - Você observa que, com o tempo, alguns membros da família se interessam pelo Bitcoin, e começam a trocar os seus doces pelos Bitcoins do seu cúmplice. Você também observa que o preço do Bitcoin em termos doces varia de acordo com a oferta e a demanda, e que às vezes o Bitcoin se valoriza, e às vezes se desvaloriza, em relação ao Doce Real.
 - Eles deixam de pagar impostos ao usarem o Bitcoin.
 - Você percebe que o Bitcoin representa uma ameaça para o seu poder monetário, e decide tomar medidas para tentar impedir o seu uso. Você anuncia que o Bitcoin é uma moeda ilegal, que não tem valor, que facilita atividades criminosas, e que quem for pego usando ou possuindo Bitcoin será punido com multas ou prisão.
